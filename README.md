@@ -1,4 +1,4 @@
-# AlpineBSD
+# AgenticBSD
 
 Minimal FreeBSD live image (mfsBSD-based), small ISO, root in RAM, optional persistent disk for packages.
 
@@ -8,13 +8,13 @@ Minimal FreeBSD live image (mfsBSD-based), small ISO, root in RAM, optional pers
 - Mini ISO (~40 MB class)
 - `pkg` / `pkg-static` available
 - Boot menu branded AlpineBSD
-- Default login: `root` / `alpinebsd`
+- Default login: `root` / `agenticbsd`
 
 ## Download
 
-See [Releases](https://github.com/TU_USUARIO/alpinebsd/releases) for the ISO and SHA256.
+See [Releases](https://github.com/TU_USUARIO/agenticbsd/releases) for the ISO and SHA256.
 
 ## Verify
 
 ```sh
-sha256 -c alpinebsd-15.1-mini-amd64.iso.sha256
+sha256 -c agenticbsd-15.1-mini-amd64.iso.sha256
